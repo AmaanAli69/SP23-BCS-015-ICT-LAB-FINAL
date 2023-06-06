@@ -1,0 +1,187 @@
+.main
+{
+    margin-top: 30px;
+    
+}
+.background
+{
+    width: 1300px;
+    height: 450px;
+    margin-left: 25px;
+    z-index: -1;
+    position: relative;
+    
+}
+.header
+{
+
+    
+    position: absolute;
+    width: 1170px ;
+    margin-left: 90px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 78px;
+    background-color: white;
+    
+    
+}
+
+.logo
+{
+    
+   
+    width: 70px;
+}
+.nav
+{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 50%;
+}
+
+#link
+{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover
+{
+    color: red;
+}
+.text1
+{
+    margin-right: 350px;
+    color: red;
+}
+.text2
+{
+    
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 470px;
+    color: white;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    
+
+    
+}
+.text3
+{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 520px;
+    color: white;
+    font-weight: lighter;
+}
+.button
+{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 580px;
+    background-color: red;
+    color: white;
+    height: 30px;
+
+    
+}
+.tex
+{
+    
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.service
+{
+    text-decoration: underline;
+    font-weight: lighter;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+.text4
+{
+    color: burlywood;
+    font-size: small;
+}
+.lower
+{
+    display: flex;
+    height: 190px;
+    margin-left: 70px;
+    justify-content: space-between;
+    width: 1200px;
+    margin-top: 40px;
+    
+
+}
+.div1 
+{
+   border: 2px solid skyblue;
+   background-color: skyblue;
+   width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div2
+{
+    border: 2px solid orange;
+    background-color: orange;
+   width: 200px;
+   display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div3
+{
+border: 2px solid blue;
+background-color: blue;
+   width: 200px;
+   display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div4
+{
+    border: 2px solid darkgreen;
+    background-color: darkgreen;
+    width: 200px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.di1 
+{
+    width: 200px;
+    
+}
+.di2 
+{
+    width: 200px;
+}
+.di3 
+{
+    width: 200px;
+}
+.di4
+{
+    width: 200px;
+}
+.img
+{
+    height: 30px;
+}
